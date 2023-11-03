@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, Python, C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email: tobiguan@163.com
 
 <!---
 TOBIGUAN/TOBIGUAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
